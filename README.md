@@ -9,6 +9,10 @@ Laboratorio que publica aplicaciones remotas con **RDS RemoteApp** (entregadas t
 - **Video:** [https://youtu.be/1kudbGeEuM4](https://youtu.be/1kudbGeEuM4)
 ---
 
+[Documentación Técnica Profesional FortiGate Radius & Remote App (Randy Nin -- 2025-0660).pdf](Documentación%20Técnica%20Profesional%20FortiGate%20Radius%20%26%20Remote%20App%20(Randy%20Nin%20--%202025-0660).pdf)
+
+---
+
 ## Índice
 
 - [Resumen](#resumen)
